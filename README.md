@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Arek
 
-### A passionate gamedev/mobile developer from Poland
+### A passionate game/mobile developer from Poland
 
 - 🌱 I’m currently learning **Unreal Engine 4**
 - 📫 How to reach me **arkstencel@gmail.com**
@@ -26,8 +26,6 @@
 <img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/>
 </a><a href="#">
 <img align="left" width="56" src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>
-</a><a href="#">
-<img align="left" width="56" src="https://img.icons8.com/fluent/48/000000/github.png" alt="github"/>
 </a><a href="#">
 <img align="left" width="56" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter"/>
 </a><a href="#">
