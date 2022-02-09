@@ -11,16 +11,16 @@
 
 ### Languages and Tools:
 
-<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-<img align="left" width="56" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img align="left" width="56" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" width="56" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/>
-<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" width="56" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" width="56" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<img align="left" width="56" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"/>
-<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"/>
-<img align="left" width="56" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg"/>
-<img align="left" width="56" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
+<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" target="_blank"/>
+<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" target="_blank"/>
+<img align="left" width="56" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html" target="_blank"/>
+<img align="left" width="56" src="https://img.icons8.com/color/48/000000/css3.png" alt="css" target="_blank"/>
+<img align="left" width="56" src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" target="_blank"/>
+<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" target="_blank"/>
+<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" target="_blank"/>
+<img align="left" width="56" src="https://img.icons8.com/color/48/000000/git.png" alt="git" target="_blank"/>
+<img align="left" width="56" src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" target="_blank"/>
+<img align="left" width="56" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" target="_blank"/>
+<img align="left" width="56" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" target="_blank"/>
+<img align="left" width="56" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unrea;" target="_blank"/>
+<img align="left" width="56" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="godot" target="_blank"/>
