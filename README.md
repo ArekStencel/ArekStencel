@@ -1,8 +1,5 @@
 ## Hi 👋, I'm Arek
 
-### A passionate game/mobile developer from Poland
-
-- 🌱 I’m currently learning **Unreal Engine 4**
 - 📫 How to reach me **arkstencel@gmail.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arekstencel&label=Profile%20views&color=0e75b6&style=flat" alt="arekstencel" /> </p>
