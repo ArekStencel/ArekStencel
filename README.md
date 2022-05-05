@@ -10,6 +10,8 @@
 <a href="#">
 <img align="left" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++"/>
 </a><a href="#">
+<img align="left" width="50" src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="c#"/>
+</a><a href="#">
 <img align="left" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"/>
 </a><a href="#">
 <img align="left" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/>
